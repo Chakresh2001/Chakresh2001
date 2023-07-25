@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jha.chakresh2001@gmail.com**
   
-<a href="https://chakresh2001.github.io/"> Portfolio </a>
+- <a href="https://chakresh2001.github.io/"> Portfolio </a>
 
 - 📄 Know about my experiences [Chakresh-Resume](https://drive.google.com/file/d/1v7yPbaogxOzJFaBMm_lQqzKRJRu0fXfT/view?usp=drive_link)
 
