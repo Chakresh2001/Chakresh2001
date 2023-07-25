@@ -6,14 +6,15 @@
 - 💬 Ask me about **React, Redux**
 
 - 📫 How to reach me **jha.chakresh2001@gmail.com**
-- https://chakresh2001.github.io/
+  
+<a href="https://chakresh2001.github.io/" target="blank"> Portfolio </a>
 
 - 📄 Know about my experiences [Chakresh-Resume](https://drive.google.com/file/d/1v7yPbaogxOzJFaBMm_lQqzKRJRu0fXfT/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jhachakresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jhachakresh" height="30" width="40" /></a>
-<a href="https://chakresh2001.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jhachakresh" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/chakresh ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chakresh ." height="30" width="40" /></a>
 <a href="https://fb.com/chakresh jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chakresh jha" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chakresh2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chakresh2001" height="30" width="40" /></a>
