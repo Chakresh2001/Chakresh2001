@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chakresh</h1>
 <h2 align="center">Aspiring Full Stack Developer</h2>
-<img align="right" alt="Coding" width="300" height="300" src="https://img.freepik.com/premium-vector/programming-software-concept-illustration-with-characters-flat-design_198565-152.jpg?w=740" />
+<img align="right" alt="Coding"  height="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 - 🌱 I’m currently learning **ReactJS, HTML, CSS, Chakra UI, Redux**
 
 - 💬 Ask me about **React, Redux**
