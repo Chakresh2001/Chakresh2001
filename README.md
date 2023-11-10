@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chakresh</h1>
 <h2 align="center">Aspiring Full Stack Developer</h2>
 <img align="right" alt="Coding"  height="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
-- 🌱 I’m currently learning **ReactJS, HTML, CSS, Chakra UI, Redux**
 
-- 💬 Ask me about **React, Redux**
+- 🌱 I’m currently learning **Angular, AWS, Python**
+
+- 💬 Ask me about **React, Redux, Typescript, HTML, CSS, Chakra UI**
 
 - 📫 How to reach me **jha.chakresh2001@gmail.com**
   
