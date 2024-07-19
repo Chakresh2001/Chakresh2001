@@ -19,7 +19,7 @@
   
 - <a href="https://chakresh-protofolio.vercel.app/"> Portfolio </a>
 
-- 📄 Know about my experiences [Chakresh-Resume](https://drive.google.com/file/d/1gLYkuuoccp6U4WPpk1nk9aCgaDPsTv7x/view?usp=sharing)
+- 📄 Know about my experiences [Chakresh-Resume](https://drive.google.com/file/d/1Iih7FQJXBaGC-JKKpKNq-mdeFAv9Y06I/view?usp=sharing).
 <br/>
 
 <h3 align="left">Connect with me:</h3>
