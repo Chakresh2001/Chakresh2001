@@ -2,6 +2,13 @@
 <h2 align="center">Aspiring Full Stack Developer</h2>
 <img align="right" alt="Coding"  height="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
+
+<!-- About Me Section -->
+<p align="center">
+Versatile Full Stack Web Developer with expertise in front-end (HTML, CSS, JavaScript, React.js) and back-end (MongoDB, Node.js, Python, Django) development. Proficient in responsive design and problem-solving. Dedicated to staying current with emerging technologies and seeking opportunities for growth and skill enhancement.
+</p>
+
+
 - 🌱 I’m currently learning **Angular, AWS, Python**
 
 - 💬 Ask me about **React, Redux, Typescript, HTML, CSS, Chakra UI**
