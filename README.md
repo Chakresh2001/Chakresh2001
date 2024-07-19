@@ -4,9 +4,11 @@
 
 
 <!-- About Me Section -->
-<p align="center">
-Versatile Full Stack Web Developer with expertise in front-end (HTML, CSS, JavaScript, React.js) and back-end (MongoDB, Node.js, Python, Django) development. Proficient in responsive design and problem-solving. Dedicated to staying current with emerging technologies and seeking opportunities for growth and skill enhancement.
-</p>
+<div align="center" style="font-size: 1.2em;">
+    <p>
+        Versatile Full Stack Web Developer with expertise in front-end (HTML, CSS, JavaScript, React.js) and back-end (MongoDB, Node.js, Python, Django) development. Proficient in responsive design and problem-solving. Dedicated to staying current with emerging technologies and seeking opportunities for growth and skill enhancement.
+    </p>
+</div>
 
 
 - 🌱 I’m currently learning **Angular, AWS, Python**
